@@ -1,0 +1,7 @@
+D:\projects\demoservicebusmessage\subscriber\bin\Debug\subscriber.exe.config
+D:\projects\demoservicebusmessage\subscriber\bin\Debug\subscriber.exe
+D:\projects\demoservicebusmessage\subscriber\bin\Debug\subscriber.pdb
+D:\projects\demoservicebusmessage\subscriber\bin\Debug\Microsoft.ServiceBus.dll
+D:\projects\demoservicebusmessage\subscriber\bin\Debug\Microsoft.ServiceBus.xml
+D:\projects\demoservicebusmessage\subscriber\obj\Debug\subscriber.exe
+D:\projects\demoservicebusmessage\subscriber\obj\Debug\subscriber.pdb

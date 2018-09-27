@@ -1,0 +1,8 @@
+D:\projects\demoservicebusmessage\publisher\bin\Debug\publisher.exe.config
+D:\projects\demoservicebusmessage\publisher\bin\Debug\publisher.exe
+D:\projects\demoservicebusmessage\publisher\bin\Debug\publisher.pdb
+D:\projects\demoservicebusmessage\publisher\bin\Debug\Microsoft.ServiceBus.dll
+D:\projects\demoservicebusmessage\publisher\bin\Debug\Microsoft.ServiceBus.xml
+D:\projects\demoservicebusmessage\publisher\obj\Debug\publisher.csprojResolveAssemblyReference.cache
+D:\projects\demoservicebusmessage\publisher\obj\Debug\publisher.exe
+D:\projects\demoservicebusmessage\publisher\obj\Debug\publisher.pdb
